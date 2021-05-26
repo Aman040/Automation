@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Regrression Suite" duration-ms="33929" started-at="2021-05-25T16:52:06Z" finished-at="2021-05-25T16:52:40Z">
+  <suite name="Regrression Suite" duration-ms="35138" started-at="2021-05-25T17:53:23Z" finished-at="2021-05-25T17:53:59Z">
     <groups>
     </groups>
-    <test name="login test" duration-ms="33929" started-at="2021-05-25T16:52:06Z" finished-at="2021-05-25T16:52:40Z">
+    <test name="login test" duration-ms="35138" started-at="2021-05-25T17:53:23Z" finished-at="2021-05-25T17:53:59Z">
       <class name="TestNG.LoginTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestNG.LoginTest@93081b6]" name="setup" is-config="true" duration-ms="11232" started-at="2021-05-25T16:52:06Z" finished-at="2021-05-25T16:52:17Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNG.LoginTest@1890516e]" name="setup" is-config="true" duration-ms="11415" started-at="2021-05-25T17:53:23Z" finished-at="2021-05-25T17:53:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:TestNG.LoginTest@93081b6]" name="login" duration-ms="21625" started-at="2021-05-25T16:52:17Z" finished-at="2021-05-25T16:52:39Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:TestNG.LoginTest@1890516e]" name="login" duration-ms="22914" started-at="2021-05-25T17:53:35Z" finished-at="2021-05-25T17:53:58Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:TestNG.LoginTest@93081b6]" name="teardown" is-config="true" duration-ms="1037" started-at="2021-05-25T16:52:39Z" finished-at="2021-05-25T16:52:40Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestNG.LoginTest@1890516e]" name="teardown" is-config="true" duration-ms="765" started-at="2021-05-25T17:53:58Z" finished-at="2021-05-25T17:53:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
